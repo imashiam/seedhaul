@@ -78,7 +78,7 @@ end
 
 return {
     patterns = {
-      "^([Ac]hats)$",
+      "^([Cc]hats)$",
       "^([Cc]hatlist)$",
       "^([Jj]oin) (.*)$",
       "^([Kk]ickme) (.*)$",
